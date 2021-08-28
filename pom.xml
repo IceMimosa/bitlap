@@ -53,7 +53,7 @@
         <kotlin.compiler.jvmTarget>1.8</kotlin.compiler.jvmTarget>
         <dokka.version>1.5.0</dokka.version>
         <kotlin.version>1.5.20</kotlin.version>
-        <kotlinx.coroutines.version>1.5.1</kotlinx.coroutines.version>
+        <kotlinx.coroutines.version>1.5.1-native-mt</kotlinx.coroutines.version>
         <kotest.version>4.6.1</kotest.version>
         <kotlin.logging.version>2.0.10</kotlin.logging.version>
         <arrow.version>0.13.2</arrow.version>
