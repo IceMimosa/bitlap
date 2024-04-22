@@ -96,7 +96,7 @@
 
         <!-- others -->
         <parquet.version>1.13.0</parquet.version>
-        <arrow.version>12.0.0</arrow.version>
+        <arrow.version>16.0.0</arrow.version>
         <calcite.version>1.34.0</calcite.version>
         <sqlline.version>1.12.0</sqlline.version>
         <jraft.version>1.3.13</jraft.version>
